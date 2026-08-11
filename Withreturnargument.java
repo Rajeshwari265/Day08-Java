@@ -7,7 +7,7 @@ public int addvalues(int a, int b){
 	    }
 	    public static void main(String[] args) {
 	        Withreturnargument obj=new Withreturnargument();
-	        int result=obj.addvalues(5,8);
+	        int result=obj.addvalues(5,6);
 	        System.out.println("Result:"+result);
 	    }
 	    
