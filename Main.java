@@ -2,7 +2,7 @@ package Day08;
 
 public class Main {
 	    public int addValues(){
-	        int a=5;int b=8;
+	        int a=5;int b=9;
 	        int sum =a+b;
 	        return sum;
 
