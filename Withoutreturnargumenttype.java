@@ -2,7 +2,7 @@ package Day08;
 
 public class Withoutreturnargumenttype {
 	public void addvalues(){
-	    int a=10;int b=30;
+	    int a=10;int b=90;
 	    int sum=a+b;
 	    System.out.println(sum);
 
