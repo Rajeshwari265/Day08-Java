@@ -8,7 +8,7 @@ public class Withoutreturnwithargument {
     public static void main(String[] args) {
         Withoutreturnwithargument obj=new Withoutreturnwithargument();
         obj.addvalues(5,36);
-    obj.addvalues(10,20);
+    obj.addvalues(10,30);
     }
 }
 
